@@ -3,8 +3,7 @@
 
 
 Numpy arrays extend the functionality of Python list with lots of features like
-Element-wise multiplication/Addition/Subtraction/Division
-
+**element-wise** multiplication, addition, subtraction or division
 ```python
     import numpy as np
     x = np.array([1,2,3])
@@ -19,3 +18,5 @@ Numpy arrays assume all elements of same type
   print(x)
 ```
 > Output :['1' , 'one' , '2.2']
+
+#### Subsetting array element follows same technique as used in lists
