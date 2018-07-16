@@ -19,4 +19,6 @@ Numpy arrays assume all elements of same type
 ```
 > Output :['1' , 'one' , '2.2']
 
-#### Subsetting array element follows same technique as used in lists
+#### Subsetting array follow same technique as used in lists
+```python
+    
