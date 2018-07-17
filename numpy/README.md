@@ -25,7 +25,7 @@ Numpy arrays assume all elements of same type
    a = np.array([2,3,4])
    print(a[0])
 ```
-> Output : 2
+> 2
 
 To subset numpy arrays , Boolean operators (==, !=, >, <) can also be used. 
 
