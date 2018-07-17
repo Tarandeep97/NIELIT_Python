@@ -21,4 +21,18 @@ Numpy arrays assume all elements of same type
 
 #### Subsetting array follow same technique as used in lists
 ```python
+   import numpy as np
+   a = np.array([2,3,4])
+   print(a[0])
+```
+> Output : 2
+
+To subset numpy array, Boolean operators (==, !=, >, <)
+
+```python
+   a = np.array([1,2,3,4])
+   print(a<3)
+   print(a[a<3])
+```
+
     
