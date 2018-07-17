@@ -35,6 +35,7 @@ To subset numpy arrays , Boolean operators (==, !=, >, <) can also be used.
    print(a[a<3])
 ```
 > [True  True]  #array of Bool type
-> [1,2]
+
+  [1,2]
 
     
